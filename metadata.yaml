@@ -1,4 +1,8 @@
 _repo: The-Speedwell-Boys-and-Their-Ice-Racer-Lost-in-the-Great-Blizzard_49162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49162-h/images/cover.jpg
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49162#The-Speedwell-Boys-and-Their-Ice-Racer-Lost-in-the-Great-Blizzard
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
 identifiers:
